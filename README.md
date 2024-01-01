@@ -46,6 +46,10 @@ Experience the haunting consequences of poor decisions, serving as a cautionary 
 
 Experience the haunting consequences of poor decisions, serving as a cautionary tale about the destructive impact of addiction.
 
+# Features 
+This Game provides Features like a build in story teller and full-screen mode the user can turn off the modes manually. 
+![Screenshot 2024-01-01 203255](https://github.com/SW42-kj/Team-sudo/assets/145698916/5f84acc5-2bff-43cb-9d1c-bedcd6383355)
+
 # The Team
 
 Meet the talented individuals who contributed to the development of "The Tangled Path."
