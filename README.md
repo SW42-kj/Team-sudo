@@ -1,1 +1,1 @@
-# Team-sudo
+# Sudo choices
